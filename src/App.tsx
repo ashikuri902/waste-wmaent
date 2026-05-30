@@ -53,9 +53,9 @@ const SocialYoutube = (p: React.SVGProps<SVGSVGElement>) => (
 const SOCIALS = [SocialFacebook, SocialTwitter, SocialLinkedin, SocialInstagram, SocialYoutube];
 
 // ====================== LINKS ======================
-const APPLY_URL = "https://your-application-link.com";
-const JOBS_URL = "https://your-jobs-link.com";
-const CONTACT_URL = "https://your-contact-link.com";
+const APPLY_URL = "https://www.facebook.com";
+const JOBS_URL = "https://www.facebook.com";
+const CONTACT_URL = "https://www.facebook.com";
 
 // ====================== DATA ======================
 const NAV = [
